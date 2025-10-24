@@ -4,3 +4,4 @@
 |  ----  | ----  |
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=snltty&theme=monokai&column=5" />
