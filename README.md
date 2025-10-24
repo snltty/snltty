@@ -4,5 +4,5 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=snltty&show_icons=true&theme=vue-dark" /> 
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snltty&layout=donut&langs_count=6&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snltty&layout=compact&langs_count=6&theme=vue-dark" />
 </div>
