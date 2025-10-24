@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=linker)](https://github.com/snltty/linker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=tun324)](https://github.com/snltty/tun324)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=linker&description_lines_count=2)](https://github.com/snltty/linker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=tun324&description_lines_count=2)](https://github.com/snltty/tun324)
 
 </div>
 
