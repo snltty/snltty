@@ -6,3 +6,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snltty&layout=compact&langs_count=6&theme=vue-dark" />
 </div>
+
+<div align="center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=linker)](https://github.com/snltty/linker)
+</div>
+
