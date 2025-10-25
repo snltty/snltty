@@ -6,6 +6,13 @@
 - <a href="https://blog.snltty.com/2025/09/27/tun2proxy">关于TUN虚拟网卡内重定向实现TCP/IP三层转四层代理的技术原理研究</a>
 - <a href="https://blog.snltty.com/2025/10/01/forward">关于单隧道实现多服务访问的端口转发状态管理的研究</a>
 
+<img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239B20?style=for-the-badge&logo=sharp&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black">
+
 | <img src="https://github-readme-stats.vercel.app/api?username=snltty&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy" />   | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snltty&layout=donut&langs_count=6&hide_border=true&theme=buefy" /> |
 |  ----  | ----  |
   
