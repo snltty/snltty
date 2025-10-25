@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=black">
+<img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black">
 
 | <img src="https://github-readme-stats.vercel.app/api?username=snltty&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy" />   | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snltty&layout=donut&langs_count=6&hide_border=true&theme=buefy" /> |
