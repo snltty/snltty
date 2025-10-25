@@ -22,7 +22,7 @@
   
 <img src="https://github-profile-trophy-roan.vercel.app/?username=snltty&row=1&column=8&margin-w=10&margin-h=10" />
 
+| [![linker](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=linker&show_owner=true&description_lines_count=2&hide_border=true)](https://github.com/snltty/linker)   | [![linker](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=tun324&show_owner=true&description_lines_count=2&hide_border=true)](https://github.com/snltty/tun324) |
+|  ----  | ----  |
 
-[![linker](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=linker&show_owner=true&description_lines_count=2)](https://github.com/snltty/linker)
-[![linker](https://github-readme-stats.vercel.app/api/pin/?username=snltty&repo=tun324&show_owner=true&description_lines_count=2)](https://github.com/snltty/tun324)
 
