@@ -7,7 +7,7 @@
     
 - 籍籍无名的鸡头，类似于全栈工程师，但其实面向AI开发
 - 一般使用C#、Javascript、HTML5+CSS3、Vue3.0、Node.js、Python、PHP什么的
-- 平时没啥事儿就喜欢搞点网络编程，搞点Socks5代理协议、WebSocket协议、HTTPS代理协议、端口转发啥的
+- 平时没啥事儿就搞点网络编程，搞点Socks5代理协议、WebSocket协议、HTTPS代理协议、端口转发啥的
 - <a href="https://blog.snltty.com/2025/09/27/tun2proxy">关于TUN虚拟网卡内重定向实现TCP/IP三层转四层代理的技术原理研究</a>
 - <a href="https://blog.snltty.com/2025/10/01/forward">关于单隧道实现多服务访问的端口转发状态管理的研究</a>
   </td>
