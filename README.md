@@ -1,4 +1,4 @@
-### Hi thi is snltty 👋
+### Hi this is snltty 👋
 
 <table width="100%">
 <tr>
