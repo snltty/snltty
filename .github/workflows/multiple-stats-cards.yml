@@ -38,7 +38,11 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/contribs.svg
-        colors: dark
+        colors: light
+        show_icons: true
+        hide_border: true
+        include_all_commits: true
+        theme: buefy
         hide-keys: general, languages, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GGITHUB_TOKEN}}
