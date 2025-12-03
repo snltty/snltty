@@ -15,6 +15,10 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入内容
+      pages: write     # 如果有 GitHub Pages
+      id-token: write  # 如果有 OIDC
       
     steps:
     - uses: actions/checkout@v4
