@@ -27,7 +27,5 @@
 | <img src="https://ghstats.17lai.site?username=snltty&show_icons=true&hide_border=true&theme=buefy" />   | <img src="https://ghstats.17lai.site/top-langs?username=snltty&layout=donut&langs_count=6&hide_border=true&theme=buefy" /> |
 |  ----  | ----  |
   
-<img src="https://github-profile-trophy-roan.vercel.app/?username=snltty&row=1&column=8&margin-w=10&margin-h=10" />
-
-
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=snltty&row=1&column=8&margin-w=10&margin-h=10" />
 
